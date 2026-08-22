@@ -2,6 +2,7 @@
   "expo": {
     "name": "TRACE",
     "slug": "trace-app",
+    "owner": "erdemtraces-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
